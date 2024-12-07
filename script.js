@@ -54,7 +54,7 @@ $(document).ready(function() {
     // Show the pop-up warning after a delay (e.g., 2 seconds)
     setTimeout(function() {
         popup.show();
-    }, 2000);
+    }, 9000);
 
     // Close the pop-up when the close button or OK button is clicked
     closeBtn.click(function() {
